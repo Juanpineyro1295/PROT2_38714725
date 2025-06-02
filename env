@@ -14,13 +14,13 @@
 # ENVIRONMENT
 #--------------------------------------------------------------------
 
- CI_ENVIRONMENT = development
+ CI_ENVIRONMENT = development;
 
 #--------------------------------------------------------------------
 # APP
 #--------------------------------------------------------------------
 
- app.baseURL = 'http://localhost/PROT1_38714725/'
+ app.baseURL = 'http://localhost/PROT1_38714725/';
 # If you have trouble with `.`, you could also use `_`.
 # app_baseURL = ''
 # app.forceGlobalSecureRequests = false

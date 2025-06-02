@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class ControlPagina extends BaseController
 {
-    public function principal() :String
+    public function principal() 
     {
         echo view('parts/header');
         echo view('parts/nav');
@@ -24,7 +24,7 @@ class ControlPagina extends BaseController
 
                     echo view('parts/header');
                     echo view('parts/nav');
-                    echo view('front/contacto')
+                    echo view('front/contacto');
                     //if (session()->estaLogeado) {
                     //echo view('front/consulta');  }
                     //else{ echo view('front/contacto');}
