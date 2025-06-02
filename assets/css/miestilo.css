@@ -1,0 +1,112 @@
+@import
+
+*{
+ margin:0;
+ padding:0;
+
+}
+
+.img2{
+    height: 40px ;
+    width: 60px ;
+}
+.img3{
+    height: 40px;
+    width: 100px;
+}
+
+
+
+.container{
+    padding:10px;
+    margin: 10px;
+}
+
+
+.col-7{
+   
+    border: 5px solid ;
+    border-image: linear-gradient(to bottom, #E2DCC8 0%, #454545 100%) 1;
+    justify-content: center;
+    text-align: justify;
+}
+.col-5{
+    
+    border: 5px solid ;
+    border-image: linear-gradient(to bottom, #E2DCC8 0%, #454545 100%) 1;
+    text-align: center;
+}
+
+
+.col-8{
+    
+    border: 5px solid ;
+    border-image: linear-gradient(to bottom, #E2DCC8 0%, #454545 100%) 1;
+    justify-content: center;
+    text-align: justify;
+}
+.col-4{
+    
+    border: 5px solid ;
+    border-image: linear-gradient(to bottom, #E2DCC8 0%, #454545 100%) 1;
+    text-align: center;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+body{
+    /*background-image: url(/CI_proyecto_pineyro_23/assets/img/fondo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+footer{
+    text-align: center;
+    background-color: #454545;
+    /**/
+    
+}
+
+
+header{
+    text-align:center; 
+
+}
+
+nav{
+    text-align: center;
+}
+
+h2{
+    font-family:initial;
+    font-style: oblique;
+    text-align: left;
+} 
+
+h1{
+
+    font-family:initial;
+    font-style: oblique;
+    text-align: center;
+}
+
+
+
+
+a{
+    font-family: ;
+}
+
+p{
+    text-align: justify ;
+    font-size: large;
+}
+
