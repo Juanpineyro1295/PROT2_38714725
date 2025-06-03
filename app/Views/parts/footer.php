@@ -3,13 +3,13 @@
   <div class="row">
     <div class="col-2">
       <a href="#">
-          <img class="img" src="/CI_proyecto_pineyro_23/assets/img/logo.PNG">
+          <img class="img" src="/PROT1_38714725/assets/img/logo.PNG">
       </a>
     </div>
       <div class="col-10">
         <div class="row">
           <div class="col-4"><p style="color: #F6F1E9;">SIGUENOS EN NUESTRAS REDES</p></div>
-          <div class="col-1"><a href=""><img class="logo" src="/CI_proyecto_pineyro_23/assets/img/insta.jpg"></a></div>
+          <div class="col-1"><a href=""><img class="logo" src="/PROT1_38714725/assets/img/insta.jpg"></a></div>
           
           
         </div>
@@ -41,7 +41,7 @@
   </div>
   <div class="row align-items-center">
     <div class="col">
-      <p style="text-align: center;"><a style="color: #F6F1E9;" href="/CI_proyecto_pineyro_23/reposteria">Repostería</a></p>
+      <p style="text-align: center;"><a style="color: #F6F1E9;" href="/PROT1_38714725/reposteria">Repostería</a></p>
       
     </div>
     <div class="col">
@@ -53,19 +53,19 @@
   </div>
   <div class="row align-items-end">
     <div class="col">
-      <p style="text-align: center;"><a style="color: #F6F1E9;" href="/CI_proyecto_pineyro_23/sandwiches">Sandwiches</a></p>
+      <p style="text-align: center;"><a style="color: #F6F1E9;" href="/PROT1_38714725/sandwiches">Sandwiches</a></p>
      
     </div>
     <div class="col">
       <p style="color: #F6F1E9; text-align: center;" >Espacio 1356</p>
     </div>
     <div class="col">
-      <a href="https://www.instagram.com/muchasnueces.vegan/"> <img src="/CI_proyecto_pineyro_23/assets/img/insta.jpg"></a>
+      <a href="https://www.instagram.com/muchasnueces.vegan/"> <img src="/PROT1_38714725/assets/img/insta.jpg"></a>
     </div>
   </div>
   <div class="row align-items-center">
     <div class="col">
-      <p style="text-align: center;"><a style="color: #F6F1E9;" href="/CI_proyecto_pineyro_23/congelados">Congelados</a></p>
+      <p style="text-align: center;"><a style="color: #F6F1E9;" href="/PROT1_38714725/congelados">Congelados</a></p>
       
     </div> 
     <div class="col">

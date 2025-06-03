@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="/CI_proyecto_pineyro_23/assets/css/miestilo.css" rel="stylesheet" >
+	<link href="/PROT1_38714725/assets/css/miestilo.css" rel="stylesheet" >
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<title>Comercialización</title>
 </head>
@@ -42,22 +42,22 @@
 
 <h3>Tarjetas de Crédito y Débito:</h3>
 
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img1.jpg">
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img2.png">
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img3.png">
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img4.png">
-<img class="img3" src="/CI_proyecto_pineyro_23/assets/img/comercio/img5.png">
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img6.png">
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img7.png">
-<img class="img3" src="/CI_proyecto_pineyro_23/assets/img/comercio/img8.png">
-<img class="img2" src="/CI_proyecto_pineyro_23/assets/img/comercio/img9.png">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img1.jpg">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img2.png">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img3.png">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img4.png">
+<img class="img3" src="/PROT1_38714725/assets/img/comercio/img5.png">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img6.png">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img7.png">
+<img class="img3" src="/PROT1_38714725/assets/img/comercio/img8.png">
+<img class="img2" src="/PROT1_38714725/assets/img/comercio/img9.png">
 
 <h3>Descuentos Especiales con los siguientes Bancos:</h3>
 
-<img class="img3" src="/CI_proyecto_pineyro_23/assets/img/comercio/img10.jpg">
-<img class="img3" src="/CI_proyecto_pineyro_23/assets/img/comercio/img11.jpg">
-<img class="img3" src="/CI_proyecto_pineyro_23/assets/img/comercio/img12.png">
-<img class="img3" src="/CI_proyecto_pineyro_23/assets/img/comercio/img13.png">
+<img class="img3" src="/PROT1_38714725/assets/img/comercio/img10.jpg">
+<img class="img3" src="/PROT1_38714725/assets/img/comercio/img11.jpg">
+<img class="img3" src="/PROT1_38714725/assets/img/comercio/img12.png">
+<img class="img3" src="/PROT1_38714725/assets/img/comercio/img13.png">
 
 <h3>Envíos a domicilio:</h3>
 <p>Envío a domicilios dentro de las 4 avenidas, Corrientes Capital: ARS $100</p>
@@ -71,7 +71,7 @@
 </body>
  
 
-<script src="/CI_proyecto_pineyro_23/assets/js/bootstrap.bundle.min.js "></script>
+<script src="/PROT1_38714725/assets/js/bootstrap.bundle.min.js "></script>
  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 </html>

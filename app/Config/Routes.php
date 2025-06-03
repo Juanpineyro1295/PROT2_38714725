@@ -28,8 +28,12 @@ $routes->get('/congelados', 'ControlPagina::congelados');
 $routes->get('/reposteria', 'ControlPagina::reposteria');
 $routes->get('/sandwiches', 'ControlPagina::sandwiches');
 $routes->get('/adm', 'ControlPagina::administrador');
+$routes->get('/contacto', 'ControlPagina::contacto');
+$routes->get('login', 'ControlUsuario::login');
 
 $routes->get('/cuenta', 'ControlPagina::cuenta');
+//$routes->get('/registrate', 'ControlUsuario::registro');
+$routes->get('registrate', 'ControlUsuario::create');
 
 /*
 //Rutas de front para clientes
@@ -62,7 +66,6 @@ $routes->post('products/recargo', 'ControlProducto::recargo');
 //$routes->get('products/delete/(:num)', 'ProductController::delete/$1');
 
 //rutas de usuario
-//$routes->get('/registrate', 'ControlUsuario::registro');
 
 //$routes->post('/envioPost', 'CrearUsuario::validacion');
 
@@ -71,7 +74,6 @@ $routes->post('products/recargo', 'ControlProducto::recargo');
 
 $routes->get('usuario_a', 'ControlUsuario::index');
 $routes->get('usuario_a/registrar', 'ControlUsuario::createA');
-$routes->get('registrate', 'ControlUsuario::create');
 $routes->post('usuario_a/store', 'ControlUsuario::storeA');
 $routes->post('usuario/store', 'ControlUsuario::store');
 $routes->get('usuario/edit/(:num)', 'ControlUsuario::edit/$1');
@@ -82,7 +84,6 @@ $routes->get('usuario/baja/(:num)', 'ControlUsuario::baja/$1');
 $routes->get('usuario/alta/(:num)', 'ControlUsuario::alta/$1');
 $routes->post('usuario/alta2', 'ControlUsuario::alta2');
 $routes->post('usuario/delete', 'ControlUsuario::delete');
-$routes->get('login', 'ControlUsuario::login');
 $routes->get('logout', 'ControlUsuario::logout');
 
 //Contacto

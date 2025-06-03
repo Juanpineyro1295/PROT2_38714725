@@ -39,7 +39,7 @@
       <div class="accordion-body" style="text-align: justify;" >
        <p> Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
 
-        Campus Dental Insumos está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado. </p>
+        Muchas Nueces Vegan está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado. </p>
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@
   </div>
 </div>
 
-<p>Campus Dental Insumos Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.</p>
+<p>Muchas Nueces Vegan Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.</p>
 <small>Estas terminos y condiciones se han generado en plantillaterminosycondicionestiendaonline.com</small>
 
 </div>
